@@ -201,7 +201,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Abraham**
 - GitHub: https://github.com/Abra-dev-cloud
-- LinkedIn: linkedin.com/in/abraham-cheruiyot/
+- LinkedIn: www.linkedin.com/in/abraham-cheruiyot
+
 
 ## ⭐ Show your support
 
