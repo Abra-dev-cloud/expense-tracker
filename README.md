@@ -200,8 +200,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Abraham**
-- GitHub: [@YOUR_USERNAME]https://github.com/Abra-dev-cloud
-- LinkedIn: [Your LinkedIn]nkedin.com/in/abraham-cheruiyot/
+- GitHub: https://github.com/Abra-dev-cloud
+- LinkedIn: linkedin.com/in/abraham-cheruiyot/
 
 ## ⭐ Show your support
 
